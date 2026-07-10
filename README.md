@@ -1,4 +1,4 @@
-Here is a complete, production-ready README.md explicitly designed for **CloudID-Hunter**. It covers everything from a high-level overview down to step-by-step Termux (Android) mobile installation, deployment flags, and terminal formatting features.
+
 # CloudID-Hunter
 **CloudID-Hunter** is a zero-dependency, high-performance command-line interface (CLI) security utility engineered for ethical hackers, penetration testers, and security auditors. The tool automates the process of identifying, probing, and auditing exposed **Instance Metadata Services (IMDS)** across multi-cloud environments, including AWS, GCP, Azure, DigitalOcean, and Kubernetes configurations.
 By utilizing lightweight, concurrent network workers, CloudID-Hunter checks for link-local exposures and flags critical token leakages or configuration gaps that could lead to full cloud infrastructure compromise.
